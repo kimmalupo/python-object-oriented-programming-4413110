@@ -1,0 +1,9 @@
+#Chapter 1
+Class Stock:
+ def_init_(self, ticket, price, company) -> None  
+  self.ticker = ticker
+  self.price = price
+  self.company = company
+
+def get_description(self):
+  return f"{self.ticker}: {self.compamy'
